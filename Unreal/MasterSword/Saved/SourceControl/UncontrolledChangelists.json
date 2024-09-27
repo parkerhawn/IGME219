@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"Z:/IGMProfile/Desktop/IGME219/Unreal/MasterSword/Content/IGME/IGME219/Materials/M_Material.uasset",
+				"Z:/IGMProfile/Desktop/IGME219/Unreal/MasterSword/Content/IGME/IGME219/Materials/M_Master.uasset",
+				"Z:/IGMProfile/Desktop/IGME219/Unreal/MasterSword/Content/IGME/IGME219/Materials/M_Red.uasset",
+				"Z:/IGMProfile/Desktop/IGME219/Unreal/MasterSword/Content/IGME/IGME219/Materials/M_Green.uasset",
+				"Z:/IGMProfile/Desktop/IGME219/Unreal/MasterSword/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"Z:/IGMProfile/Desktop/IGME219/Unreal/MasterSword/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
+				"Z:/IGMProfile/Desktop/IGME219/Unreal/MasterSword/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset",
+				"Z:/IGMProfile/Desktop/IGME219/Unreal/MasterSword/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset"
+			]
+		}
+	]
+}
